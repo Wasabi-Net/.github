@@ -1,2 +1,1 @@
-# .github
 Wasabi-Net
